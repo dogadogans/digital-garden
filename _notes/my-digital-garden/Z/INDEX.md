@@ -8,17 +8,11 @@ created: 2022-07-28 1133
 updated: 2022-07-28 1134
 ---
 
-# Welcome To My Mind
+# Ahoy, It's a me Doga!
 
 My name is [Bryan](https://www.bryanjenks.dev). 
 
-I am an Information Technology Associate with the California State Government.
-
-I welcome you to explore my thoughts, this is the current state of my second brain:
-
----
-
-![[Pasted image 20210323185756.png]]
+I'm a UX Designer who is interested in learning more and evolving my interests within a open space. 
 
 ---
 
