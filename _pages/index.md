@@ -5,15 +5,35 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+# Ahoy, It's a me Doga!
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+I'm a UX Designer who is interested in learning more and evolving my interests within a open space, I have heaps of different interests but mainly my notes are focused on [[Design]] , [[Psychology]], [[Stoicsm]].
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+---
+
+I use  [Bryan Jenks][https://www.bryanjenks.dev/]'s [[Obsidian]] template to collect my notes in a organized matter.
+
+[[{]] *<=>* `Books`
+[[@]] *<=>* `People`
+[[!]] *<=>* `Tweets`
+[[%]] *<=>* `Podcasts`
+[[+]] *<=>* `YouTube`
+[[(]] *<=>* `Articles`
+[[&]] *<=>* `Papers`
+[[=]] *<=>* `Thoughts`
+
+To see the input by status, each has status tags denoted with a colored square that is elaborated on more in [[Tag Taxonomy]]. The whole garden can be explored from [[Map Of Content|Maps of Content]]
+
+---
+
+If you want to see my [[Zettelkasten]] notes you can do so with this tag: #📝️ for tags in various stages of processing here's the breakdown:
+
+#📝️ *<=>* `All Notes`
+#📝️/🌱️ *<=>* `Seedling Notes`
+#📝️/🌿️ *<=>* `Fern Notes`
+#📝️/🌞️ *<=>* `Incubating Notes`
+#📝️/🌲️ *<=>* `Evergreen Notes`
 
 <style>
   .wrapper {
