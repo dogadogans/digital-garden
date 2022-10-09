@@ -1,11 +1,10 @@
 ---
+title: Index-List
 tags: 🗺️
-aliases: 
-  - Home
 cssclass:
   - tiny_img
 created: 2022-07-28 1133
-updated: 2022-10-09 1840
+updated: 2022-10-09 1913
 ---
 
 # Ahoy, It's a me Doga!
@@ -37,7 +36,3 @@ If you want to see my [[Zettelkasten]] notes you can do so with this tag: #📝�
 #📝️/🌞️ *<=>* `Incubating Notes`
 #📝️/🌲️ *<=>* `Evergreen Notes`
 
-
-<footer>
-Some of the important links about me <a href="https://dogadogan.webflow.io/">Portfolio</a>, <a href="https://www.linkedin.com/in/dogadogans/">Linkedin</a> and if you just want to chat shoot me a <a href="mailto:dogadogan.me@gmail.com">e-mail</a> 
-</footer>
